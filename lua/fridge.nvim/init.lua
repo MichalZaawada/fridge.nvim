@@ -1,7 +1,7 @@
 local function example()
-  return true
+	return true
 end
 
 return {
-  example = example,
+	example = example,
 }
